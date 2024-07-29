@@ -50,7 +50,7 @@ Copy the code to any Compiler then run
 
 ###                 Happy Coding  💟
 
-## Contributors :-
+## Contributor :-
 
 
 <!-- Copy-paste in your Readme.md file -->
